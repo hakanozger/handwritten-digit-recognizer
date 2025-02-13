@@ -176,5 +176,5 @@ cd handwritten-digit-recognizer
 ---
 
 ## 🌟 Credits
-Built by [Your Name] 🚀
+Built by [Hakan Özger] 🚀
 
